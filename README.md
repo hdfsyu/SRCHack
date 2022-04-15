@@ -1,4 +1,9 @@
 # SRCHack - The first hacked client for Minecraft c0.0.11 (aka c0.0.12a-dev in Betacraft launcher)
+
+# THE FILES FOR THE CLIENT WILL BE ADDED TO THIS REPOSITORY SOON; THIS WAS JUST MADE IN PREPARATION.
+
+
+
 Hello there. I was bored and decided to make this. It's interesting, trust me.
 The main good thing about this client is that it adds flying, which wasn't present in Minecraft classic versions.
 I highly recommend the Betacraft launcher for using this client. https://betacraft.uk/downloads
