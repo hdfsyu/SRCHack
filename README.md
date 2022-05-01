@@ -12,3 +12,4 @@ I recommend checking this page every once in a while, in case I make a new relea
 3. Drag the SRCHack jar into the versions folder, and rename it to 'c0.0.12a-dev.jar'. 
 
 That's all you need to do. Enjoy!
+If you want to use the Minecraft official launcher (not recommended), search "How to add version to Minecraft launcher from jar" on Google and select the video result. I'm too lazy to type it all here, and I do not test the client on the official launcher, and I won't provide bugfixes for the official launcher so it may stop working at any time because the Minecraft official launcher has terrible support for old Minecraft versions. Use the Betacraft launcher if you want to be 100% sure that the game will work, since that's what I test the client on.
