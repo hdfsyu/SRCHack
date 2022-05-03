@@ -1,4 +1,4 @@
-# SRCHack - The first hacked client for Minecraft c0.0.11 (aka c0.0.12a-dev in Betacraft launcher)
+# SRCHack - (probably) The first hacked client for Minecraft c0.0.11 (aka c0.0.12a-dev in Betacraft launcher)
 
 
 Hello there, I was bored and decided to make this. It's interesting, trust me.
