@@ -15,7 +15,9 @@ I recommend checking this page every once in a while, in case I make a new relea
 # How to install on MacOS (Any OS version that is compatible with Betacraft Launcher)
 Use the Spotlight search app in the top right of your screen and type '~/library/Application support/betacraft if you're on an older version. You can't do that on the new MacOS versions however (10.14.6 and up, I believe), so you'll have to find it in Finder by going to the Devices tab and going into a specific library folder. I won't specify how to do it here, you can search up on Google how to find the application support folder yourself.
 
-If you're on Linux, it should be similar to Windows, but I don't actually 100% know how, so if that doesn't work search it up on Google, there should be something there to help you.
+# How to install on Linux-based operating systems
+If you're on Linux, it should be the same/similar to Windows, but I don't actually 100% know how, so if that doesn't work search it up on Google, there should be something there to help you out.
 
+# 
 That's all you need to do. Enjoy!
 If you want to use the Minecraft official launcher (not recommended), search "How to add version to Minecraft launcher from jar" on Google and select the video result. I'm too lazy to type it all here, and I do not test the client on the official launcher, and I won't provide bugfixes for the official launcher so it may stop working at any time because the Minecraft official launcher has terrible support for old Minecraft versions. Use the Betacraft launcher if you want to be 100% sure that the game will work, since that's what I test the client on.
