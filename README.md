@@ -3,7 +3,7 @@
 
 Hello there, I was bored and decided to make this. It's interesting, trust me.
 
-One of the useful things about this client is that it adds flying, which wasn't present in any Minecraft Classic versions, which makes it a nuisance to build.
+One of the useful things about this client is that it adds flying, which wasn't present in any Minecraft Classic versions, which often makes it a nuisance to build large structures.
 I highly recommend the Betacraft launcher for using this client. https://betacraft.uk/downloads
 I recommend checking this page every once in a while, in case I make a new release of the client that includes more hacks, bugfixes and improvements.
 
