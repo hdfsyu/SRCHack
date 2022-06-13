@@ -21,7 +21,7 @@ Use the Spotlight search app in the top right of your screen and type '~/library
 
 # How to install on Linux-based operating systems
 If you're on Linux, it should be the same/similar to Windows, but I don't actually 100% know how, so if that doesn't work search it up on Google. 
-If you're using Linux though, I imagine you have some knowledge of tech
+If you're using Linux though, I would imagine you have some knowledge of tech.
 
 # 
 That's all you need to do. Enjoy!
