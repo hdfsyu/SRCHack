@@ -20,7 +20,8 @@ I know it's stupid because this is such an old version of the game that I've mod
 Use the Spotlight search app in the top right of your screen and type '~/library/Application support/betacraft if you're on an older version. You can't do that on the new MacOS versions however (10.14.6 and up, I believe), so you'll have to find it in Finder by going to the Devices tab and going into a specific library folder. I won't specify how to do it here, you can search up on Google how to find the application support folder yourself.
 
 # How to install on Linux-based operating systems
-If you're on Linux, it should be the same/similar to Windows, but I don't actually 100% know how, so if that doesn't work search it up on Google, there should be something there to help you out.
+If you're on Linux, it should be the same/similar to Windows, but I don't actually 100% know how, so if that doesn't work search it up on Google. 
+If you're using Linux though, I imagine you have some knowledge of tech
 
 # 
 That's all you need to do. Enjoy!
