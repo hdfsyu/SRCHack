@@ -7,7 +7,7 @@ One of the useful things about this client is that it adds flying, which wasn't 
 I highly recommend the Betacraft launcher for using this client. https://betacraft.uk/downloads
 I recommend checking this page every once in a while, in case I make a new release of the client that includes more hacks, bugfixes and improvements.
 
-Unfortunatly due to copyright issues, I cannot release the source code because it would also show the source code for this Minecraft version, which would not be allowed. Due to no Forge/Fabric for this version of Minecraft, I must directly modify the code of the game, so I would technically be making private copyrighted code (Minecraft source code) public.
+Unfortunatly due to copyright issues, I cannot release the source code because it would also show the source code for this Minecraft version, which would technically not be legal. Due to no Forge/Fabric for this version of Minecraft, I must directly modify the code of the game, so I would technically be making private copyrighted code (Minecraft source code) public.
 
 I know it's stupid because this is such an old version of the game that I've modded, however copyright is copyright.
 
